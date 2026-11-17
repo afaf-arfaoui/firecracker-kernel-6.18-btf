@@ -3,7 +3,7 @@
 A Linux 6.18 kernel image for Firecracker microVMs, built with eBPF tracing and BTF enabled. It is the kernel used for the `upf-uvm` microVM in episode 02 of the series.
 
 - Episode 02, where this kernel is built and used: https://<your-pages-site>/episode-02-microvms-in-practice.html
-- The whole series: https://<your-pages-site>/
+- The whole series: [https://<your-pages-site>/](https://afaf-arfaoui.github.io/telco-tech-series/)
 
 ## What is in this repository
 
