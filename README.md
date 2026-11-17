@@ -1,6 +1,6 @@
-# Firecracker guest kernel 6.18 with BPF and BTF
+# Firecracker guest kernel 6.18.63 with BPF and BTF
 
-A Linux 6.18 kernel image for Firecracker microVMs, built with eBPF tracing and BTF enabled. It is the kernel used for the `upf-uvm` microVM in episode 02 of the series.
+A Linux 6.18.63 kernel image for Firecracker microVMs, built with eBPF tracing and BTF enabled. It is the kernel used for the `upf-uvm` microVM in episode 02 of the series.
 
 - Episode 02, where this kernel is built and used: [https://afaf-arfaoui.github.io/telco-tech-series/episode-02-microvms-in-practice.html](https://afaf-arfaoui.github.io/telco-tech-series/episode-02-microvms-in-practice.html)
 - The whole series: [https://afaf-arfaoui.github.io/telco-tech-series/](https://afaf-arfaoui.github.io/telco-tech-series/)
@@ -13,7 +13,9 @@ This repository contains only this README. The kernel file is attached to the re
 
 Get the latest release:
 
-https://github.com/<your-user>/firecracker-kernel-6.18-btf/releases/tag/kernel-6.18-btf
+
+[
+https://github.com/afaf-arfaoui/firecracker-kernel-6.18-btf/releases/tag/kernel-6.18-btf](https://github.com/afaf-arfaoui/firecracker-kernel-6.18-btf/releases/tag/kernel-6.18-btf)
 
 Download these two files:
 
